@@ -1,0 +1,2 @@
+# JSONCodable
+解决JSONDecoder模型转换字段类型不匹配的问题
