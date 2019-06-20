@@ -14,7 +14,6 @@
 		8F4117B322BB280F00CCF01D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8F4117B122BB280F00CCF01D /* LaunchScreen.storyboard */; };
 		8F4117BE22BB280F00CCF01D /* JSONCodableTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4117BD22BB280F00CCF01D /* JSONCodableTests.swift */; };
 		8F4117C922BB280F00CCF01D /* JSONCodableUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4117C822BB280F00CCF01D /* JSONCodableUITests.swift */; };
-		8F4117D822BB283400CCF01D /* JSONCodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4117D722BB283400CCF01D /* JSONCodable.swift */; };
 		8F4117DB22BB28C200CCF01D /* CustomModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4117DA22BB28C200CCF01D /* CustomModel.swift */; };
 		8F4117DE22BB298E00CCF01D /* Json.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4117DD22BB298E00CCF01D /* Json.swift */; };
 		8F4117E022BB546300CCF01D /* JSONDecoder+Extesion.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8F4117DF22BB546300CCF01D /* JSONDecoder+Extesion.swift */; };
@@ -51,7 +50,6 @@
 		8F4117C422BB280F00CCF01D /* JSONCodableUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = JSONCodableUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		8F4117C822BB280F00CCF01D /* JSONCodableUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONCodableUITests.swift; sourceTree = "<group>"; };
 		8F4117CA22BB280F00CCF01D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		8F4117D722BB283400CCF01D /* JSONCodable.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JSONCodable.swift; sourceTree = "<group>"; };
 		8F4117DA22BB28C200CCF01D /* CustomModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModel.swift; sourceTree = "<group>"; };
 		8F4117DD22BB298E00CCF01D /* Json.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Json.swift; sourceTree = "<group>"; };
 		8F4117DF22BB546300CCF01D /* JSONDecoder+Extesion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "JSONDecoder+Extesion.swift"; sourceTree = "<group>"; };
@@ -138,7 +136,6 @@
 		8F4117D622BB282600CCF01D /* JSONCodable */ = {
 			isa = PBXGroup;
 			children = (
-				8F4117D722BB283400CCF01D /* JSONCodable.swift */,
 				8F4117DF22BB546300CCF01D /* JSONDecoder+Extesion.swift */,
 			);
 			path = JSONCodable;
@@ -288,7 +285,6 @@
 				8F4117DE22BB298E00CCF01D /* Json.swift in Sources */,
 				8F4117A922BB280E00CCF01D /* AppDelegate.swift in Sources */,
 				8F4117DB22BB28C200CCF01D /* CustomModel.swift in Sources */,
-				8F4117D822BB283400CCF01D /* JSONCodable.swift in Sources */,
 				8F4117E022BB546300CCF01D /* JSONDecoder+Extesion.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

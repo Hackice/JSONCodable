@@ -10,7 +10,7 @@ let jsonString = """
 {
         "customer_id": 108213613,
         "company_id": 6812697596,
-        "name": "\u{90b5}\u{96f6}\u{56db}",
+        "name": "Hackice",
         "email": "name@company.com",
         "main_customer_flag": 0,
 }
